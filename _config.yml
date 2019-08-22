@@ -1,21 +1,12 @@
-
-title: John Doe
-
-name: John Doe
-
-description: Site description goes here.
-
-baseurl: "/statistical_scientist"
-
+title: hdixon.github.io
+name: henry dixon
+description: developer homepage
+baseurl: /statistical_scientist
 lang: en
-
-github_username: johndoe
-
-social: 
-    name: John Doe
-    links:
-        - https://twitter.com/johndoe
-        - https://github.com/johndoe
-
-
+github_username: hdixon
+social:
+  name: John Doe
+  links:
+    - 'https://twitter.com/johndoe'
+    - 'https://github.com/johndoe'
 remote_theme: siddhantgoel/clean-jekyll-theme
