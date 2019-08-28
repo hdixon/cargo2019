@@ -1,12 +1,12 @@
-title: hdixon.github.io
+title: hdixon.me
 name: henry dixon
-description: developer homepage
-baseurl: /statistical_scientist
+description: developer homepage, listing projects, updates, and other garbage intended just for me. you can read it if you want.
+baseurl: /
 lang: en
 github_username: hdixon
 social:
-  name: John Doe
+  name: harold dixon
   links:
-    - 'https://twitter.com/johndoe'
-    - 'https://github.com/johndoe'
+    - 'https://twitter.com/nothenrydixon'
+    - 'https://instagram.com/henry.dixon'
 remote_theme: siddhantgoel/clean-jekyll-theme
